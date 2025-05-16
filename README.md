@@ -1,5 +1,6 @@
 # Hi, I’m Nico 👋
-Big developer
+DevOps Engineer - AWS Infrastructure
+Backend Developer 
 
 <!---
 nico-1512/nico-1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
