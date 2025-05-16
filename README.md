@@ -1,5 +1,5 @@
 # Hi, I’m Nico 👋
-DevOps Engineer - AWS Infrastructure
+DevOps Engineer - AWS Infrastructure <br>
 Backend Developer 
 
 <!---
