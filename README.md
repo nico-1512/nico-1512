@@ -40,8 +40,8 @@ I love automating everything — from CI/CD pipelines to infrastructure — and 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nico-1512&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-1512&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nico-1512&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-1512&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ---
