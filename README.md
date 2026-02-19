@@ -43,8 +43,8 @@ I love automating everything — from CI/CD pipelines to infrastructure — and 
 ---
 
 ### 🧩 Current Focus
-- ☁️ Improving cloud-native DevOps workflows (IaC, GitOps, FinOps)
-- ⚡ Building performant web apps with React + Node + Rails APIs
+- ☁️ Improving DevOps workflows (IaC, GitOps, FinOps)
+- ⚡ Building performant web apps with React + Rails APIs
 - 🧠 Learning Rust & exploring distributed systems
 
 ---
