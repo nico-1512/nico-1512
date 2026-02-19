@@ -39,11 +39,7 @@ I love automating everything — from CI/CD pipelines to infrastructure — and 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nico-1512&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-1512&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nico-1512?cardType=github&theme=cobalt&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ### 🧩 Current Focus
