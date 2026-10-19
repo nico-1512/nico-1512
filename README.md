@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Nicolas
 
-🚀 **DevOps Engineer | Full-Stack Developer | Cloud Architect**
+🚀 **DevSecOps Engineer | Full-Stack Developer | Cloud Architect**
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a DevOps and Full-Stack engineer passionate about building scalable systems and clean, maintainable code.  
+I'm a DevSecOps and Full-Stack engineer passionate about building scalable systems and clean, maintainable code.  
 I love automating everything — from CI/CD pipelines to infrastructure — and crafting seamless frontend experiences.  
 
 💡 **Key strengths:** AWS, Linux, Docker, Kubernetes, React, Node.js, Ruby on Rails, Networking, CI/CD.
@@ -17,12 +17,10 @@ I love automating everything — from CI/CD pipelines to infrastructure — and 
 #### 🚀 DevOps / Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-3B3B3B?style=for-the-badge&logo=aws-amplify&logoColor=FF9900)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 #### 💻 Backend
